@@ -17,4 +17,14 @@ body {
 }
 .brighttheme-error{
   margin-left: auto;
+  
+  
+}
+div[data-pnotify] .brighttheme-container{
+padding: 0;
+padding-bottom: 10px;
+}
+
+ul {
+  list-style: none;
 }
