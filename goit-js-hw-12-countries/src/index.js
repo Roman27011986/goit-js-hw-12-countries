@@ -1,5 +1,6 @@
 import './styles.css';
-import { error } from '@pnotify/core/dist/PNotify.js';
+
+import { error } from '@pnotify/core';
 import '@pnotify/core/dist/BrightTheme.css';
 import fetchCountries from './fetchCountries';
 import countriesTpl from './countries.hbs'
